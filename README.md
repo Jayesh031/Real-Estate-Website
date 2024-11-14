@@ -10,15 +10,15 @@ Estate aims to modernize the real estate experience by integrating Web3 function
 
 **Key Features**
 
-    Web3 Integration: Allows for secure, blockchain-based transactions and authentication.
-    Notifications: Utilizes React Toastify to display non-intrusive, customizable alerts and notifications.
-    Smooth Animations: Enhanced user experience with Framer Motion for fluid, interactive animations throughout the app.
+Web3 Integration: Allows for secure, blockchain-based transactions and authentication.
+Notifications: Utilizes React Toastify to display non-intrusive, customizable alerts and notifications.
+Smooth Animations: Enhanced user experience with Framer Motion for fluid, interactive animations throughout the app.
 
 **Technology Stack**
 
-    Frontend: React, JavaScript, CSS
-    Blockchain: Web3.js for blockchain-based functionality
-    UI/UX Enhancements:React Toastify,Framer Motion .
+Frontend: React, JavaScript, CSS
+Blockchain: Web3.js for blockchain-based functionality
+UI/UX Enhancements:React Toastify,Framer Motion .
     
 
 
