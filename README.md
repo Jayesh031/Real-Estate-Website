@@ -4,7 +4,7 @@
 
 Estate web application developed with React. This project combines blockchain capabilities, seamless animations, and responsive design to provide a comprehensive platform for users to discover, list, and interact with property listings.
 
-**Project Overview**
+**Project Overview** \n
     Estate aims to modernize the real estate experience by integrating Web3 functionalities, enabling secure and decentralized transactions. The platform showcases intuitive navigation and visually appealing     animations, enhancing the user experience and making property browsing more engaging.
 
 **Key Features**
